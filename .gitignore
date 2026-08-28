@@ -1,0 +1,7 @@
+teste.html
+teste-anon.html
+_qa_*.png
+ENTRADA/*
+!ENTRADA/LEIA-ME.md
+__pycache__/
+*.pyc
