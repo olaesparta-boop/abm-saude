@@ -1,8 +1,0 @@
-# nunca versionar dado bruto de decisor
-dataset_*.json
-*.xlsx
-*.csv
-/output/
-/config/alvo.*.yaml
-.env
-node_modules/
