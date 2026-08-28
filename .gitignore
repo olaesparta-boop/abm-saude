@@ -1,7 +1,8 @@
-teste.html
-teste-anon.html
-_qa_*.png
-ENTRADA/*
-!ENTRADA/LEIA-ME.md
-__pycache__/
-*.pyc
+# nunca versionar dado bruto de decisor
+dataset_*.json
+*.xlsx
+*.csv
+/output/
+/config/alvo.*.yaml
+.env
+node_modules/
